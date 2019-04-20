@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+-Document object model and it's how we can use javascript to implement logic to make the webpage more responsive. It is also an object version of the web page
+
 2. What is an event?
+
+-any sort of things that happens within the page could be characterized as an event.
 
 3. What is an event listener?
 
+-Even listeners listen for actions on the webpage. Once a click happens, for example, the webpage could re-render and run the logic inside the even listener
+
 4. Why would we convert a NodeList into an Array?
 
+-This is so we could have more method options like .map so we could manipulate our data more
+
 5. What is a component?
+
+-compoents could be built like classes and the good thing about components is that we could re-use components to make life easier 
 
 ### Git Set up
 
